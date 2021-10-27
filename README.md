@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kameliyastaneva
+- 👋 Hi, I am Kameliya.
 - 👀 I’m interested in Spatial Data Science
 - 🌱 I’m currently learning Python
 
